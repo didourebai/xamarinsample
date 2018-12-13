@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SampleXamarin"
+             x:Class="SampleXamarin.MainPage">
+    
+<ContentPage.Content>
+        <StackLayout x:Name="stack">
+            <CollectionView x:Name="governorate" ItemsSource="{Binding Governorate}" Margin="10,0,0,0">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout HeightRequest="50" WidthRequest="200" Orientation="Horizontal" Padding="0,5,0,5">
+                            <Image Source="tunis"/>
+                            <Label Text="{Binding}" VerticalOptions="Center"/>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

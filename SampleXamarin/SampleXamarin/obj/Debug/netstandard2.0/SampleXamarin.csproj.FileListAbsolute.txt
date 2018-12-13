@@ -1,0 +1,12 @@
+E:\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.deps.json
+E:\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.dll
+E:\SampleXamarin\SampleXamarin\SampleXamarin\bin\Debug\netstandard2.0\SampleXamarin.pdb
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.csproj.CoreCompileInputs.cache
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.AssemblyInfoInputs.cache
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.AssemblyInfo.cs
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.dll
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.pdb
+E:\SampleXamarin\SampleXamarin\SampleXamarin\obj\Debug\netstandard2.0\SampleXamarin.csprojAssemblyReference.cache
